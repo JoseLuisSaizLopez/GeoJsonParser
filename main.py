@@ -22,4 +22,4 @@ if __name__ == '__main__':
     #         SpainPolygonParser.export_data3(municipal)
     #         break
     #     break
-    andalucia_reader_1.open_excel("samples/andalucia_data_test.xlsx")
+    andalucia_reader_1.open_excel_by_province("samples/andalucia_test_injection.xlsx")
